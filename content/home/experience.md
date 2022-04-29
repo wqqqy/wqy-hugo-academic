@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company = "NESA Lab, Zhejiang University"
   company_url = ""
   location = "Hangzhou, China"
-  date_start = "2017-07-01"
+  date_start = "2018-06-01"
   date_end = ""
   description = ""
 
