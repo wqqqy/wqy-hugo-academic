@@ -14,13 +14,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include IoT security, fuzzing and AI security.
+bio: My research interests include software and system security, IoT security, and fuzzing.
 
 interests:
+- Software and system security
 - IoT security
 - Fuzzing
 - Measurement
-- AI security
 
 education:
   courses:
