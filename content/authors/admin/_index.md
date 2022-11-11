@@ -72,8 +72,8 @@ I am a Ph.D. candidate working with  Prof. [Shouling Ji](http://nesa.zju.edu.cn/
 
 ### Recent News
 
+* [10/11/2022] Our paper was accepted by Usenix Security 2023!
 * [04/11/2022] Our paper was accepted by ISSTA 2022!
 * [05/25/2021] Our paper was accepted by Usenix Security 2021!
-* [10/11/2021] Our paper was accepted by Usenix Security 2023!
 
 
