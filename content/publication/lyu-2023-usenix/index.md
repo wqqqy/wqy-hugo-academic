@@ -15,7 +15,7 @@ authors:
 - Reheem Beyah
 
 publication_types: ["1"]
-publication: "32nd USENIX Security Symposium (Usenix), **CCF-A**"
+publication: "32nd USENIX Security Symposium (USENIX Security), **CCF-A**"
 # publication: "Under major revision"
 publication_shorts: ""
 
