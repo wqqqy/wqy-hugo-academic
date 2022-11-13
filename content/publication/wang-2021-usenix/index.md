@@ -17,7 +17,7 @@ authors:
 
 publication_types: ["1"]
 # publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
-publication: "30th USENIX Security Symposium (Usenix Security 2021)"
+publication: "30th USENIX Security Symposium (Usenix Security 2021)， **CCF-A**"
 publication_shorts: ""
 
 tags: []
