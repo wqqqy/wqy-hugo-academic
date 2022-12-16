@@ -24,10 +24,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in School of Cyberspace Security
+  - course: Visiting PhD Student
+    institution: EPFL
+    year: 2022 - Present
+  - course: PhD Candidate in Cyberspace Security
     institution: Zhejiang University 
     year: Expected 2023
-  - course: BEng in School of Information Security
+  - course: BEng in Information Security
     institution: Hunan University
     year: 2018
 
@@ -67,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. candidate working with  Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html) in the School of Computer Science and Technology at  [Zhejiang University](https://www.zju.edu.cn/english/). I earned my bachelor’s degree at [Hunan University](http://www-en.hnu.edu.cn/) in 2018. My research interest lies in IoT security and fuzzing. 
+I am a Ph.D. candidate working with  Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html) in the School of Computer Science and Technology at  [Zhejiang University](https://www.zju.edu.cn/english/). I earned my bachelor’s degree at [Hunan University](http://www-en.hnu.edu.cn/) in 2018. Now I am visiting [HexHive](http://hexhive.epfl.ch/) and supervised by Prof. Mathias Payer.
 
 
 ### Recent News
