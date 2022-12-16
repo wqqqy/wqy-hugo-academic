@@ -24,13 +24,13 @@ interests:
 
 education:
   courses:
-  - course: Visiting PhD Student
+  - course: Visiting Ph.D. Student
     institution: EPFL
     year: 2022 - Present
-  - course: PhD Candidate in Cyberspace Security
+  - course: Ph.D. Candidate in Cyberspace Security
     institution: Zhejiang University 
     year: Expected 2023
-  - course: BEng in Information Security
+  - course: B.E. in Information Security
     institution: Hunan University
     year: 2018
 
