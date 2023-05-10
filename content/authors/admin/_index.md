@@ -74,6 +74,7 @@ I am a Ph.D. candidate working with  Prof. [Shouling Ji](http://nesa.zju.edu.cn/
 
 
 ### Recent News
+* [05/09/2023] Our paper was accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)!
 * [03/23/2023] Our paper was accepted by USENIX Security 2023!
 * [03/17/2023] Qinying was invited to serve on Oakland 2023 Poster PC!
 * [10/11/2022] Our paper was accepted by USENIX Security 2023!
