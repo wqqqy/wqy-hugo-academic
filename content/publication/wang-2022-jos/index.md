@@ -36,7 +36,7 @@ image:
   preview_only: false
 
 links:
-url_pdf: ''
+url_pdf: 'https://www.jos.org.cn/jos/article/abstract/lh049'
 # - name: Custom Link
 #   url: http://example.org
 url_code: ''

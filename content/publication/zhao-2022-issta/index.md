@@ -37,14 +37,14 @@ image:
   preview_only: false
 
 links:
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3533767.3534366'
 # - name: Custom Link
 #   url: http://example.org
 url_code: 'https://github.com/FirmSecDataset/FirmSecDataset'
 url_dataset: 'https://github.com/FirmSecDataset/FirmSecDataset'
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'slides.pdf'
 url_source: ''
 url_video: ''
 

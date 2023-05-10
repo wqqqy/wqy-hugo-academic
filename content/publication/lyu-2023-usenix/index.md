@@ -36,10 +36,10 @@ image:
   preview_only: false
 
 links:
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2303.02545'
 # - name: Custom Link
 #   url: http://example.org
-url_code: ''
+url_code: 'https://github.com/puppet-meteor/MINER'
 url_dataset: ''
 url_poster: ''
 url_project: ''
