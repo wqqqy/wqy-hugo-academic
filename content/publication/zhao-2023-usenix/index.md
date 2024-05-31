@@ -10,7 +10,7 @@ authors:
 - Qinying Wang
 - Yuwen Pu
 - Chenyang Lyu
-- Reheem Beyah
+- Raheem Beyah
 
 publication_types: ["1"]
 # publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"

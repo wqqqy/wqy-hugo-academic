@@ -13,7 +13,7 @@ authors:
 - Changting Lin
 - Shuiguang Deng
 - Alex X. Liu
-- Reheem Beyah
+- Raheem Beyah
 
 publication_types: ["1"]
 # publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
