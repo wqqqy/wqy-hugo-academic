@@ -74,7 +74,7 @@ I am a Ph.D. candidate working with  Prof. [Shouling Ji](http://nesa.zju.edu.cn/
 
 
 ### Recent News
-* [26/03/2024]  Qinying was invited to serve on Oakland 2024 Poster PC!
+* [26/03/2024] Qinying was invited to serve on Oakland 2024 Poster PC!
 * [08/07/2023] Our paper was accepted by NDSS 2024!
 * [07/10/2023] Our paper was accepted by IEEE S&P 2024!
 * [05/09/2023] Our paper was accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)!
