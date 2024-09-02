@@ -24,18 +24,18 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Lausanne, Switzerland"
   date_start = "2022-12-15"
-  date_end = ""
+  date_end = "2023-12-15"
   description = ""
 
 
-[[experience]]
-  title = "Ph.D. Candidate"
-  company = "NESA Lab, Zhejiang University"
-  company_url = ""
-  location = "Hangzhou, China"
-  date_start = "2018-06-01"
-  date_end = ""
-  description = ""
+# [[experience]]
+#  title = "Ph.D. Candidate"
+#  company = "NESA Lab, Zhejiang University"
+#  company_url = ""
+#  location = "Hangzhou, China"
+#  date_start = "2018-06-01"
+#  date_end = ""
+#  description = ""
 
 
 

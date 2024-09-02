@@ -6,30 +6,29 @@ title: Qinying Wang
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Zhejiang University
+- name: EPFL
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include software and system security, IoT security, and fuzzing.
+bio: My research interests include software and system security, IoT security, and AI for security.
 
 interests:
 - Software and system security
 - IoT security
-- Fuzzing
-- Measurement
+- Social issues and security
 
 education:
   courses:
   - course: Visiting Ph.D. Student
     institution: EPFL
-    year: 2022 - Present
+    year: 2022 - 2023
   - course: Ph.D. Candidate in Cyberspace Security
     institution: Zhejiang University 
-    year: Expected 2023
+    year: 2024
   - course: B.E. in Information Security
     institution: Hunan University
     year: 2018
@@ -58,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "wangqinying@zju.edu.cn"
+email: "wqybbh@gmail.com, qinying.wang@epfl.ch"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -70,7 +69,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. candidate working with  Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html) in the School of Computer Science and Technology at  [Zhejiang University](https://www.zju.edu.cn/english/). I earned my bachelor’s degree at [Hunan University](http://www-en.hnu.edu.cn/) in 2018. Now I am visiting [HexHive](http://hexhive.epfl.ch/) and supervised by Prof. Mathias Payer.
+I am a postdoctoral researcher at [HexHive](http://hexhive.epfl.ch/), EPFL, advised by working with Prof. Mathias Payer. I earned my Ph.D. at Zhejiang University in 2024, advised by Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html). Prior to that, I earned my bachelor’s degree at [Hunan University](http://www-en.hnu.edu.cn/) in 2018. I am broadly interested in software and system security and IoT security. Recently, my research focuses on developing novel technologies to understand the risks of modern and emerging systems, such as IoT messaging protocols, embedded systems, and trusted execution environments. My research builds on and expands fuzzing, state modeling, formal analysis, binary analysis, and deep learning. All research prototypes are released as open-source.
 
 
 ### Recent News

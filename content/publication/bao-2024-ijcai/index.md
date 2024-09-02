@@ -1,28 +1,24 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "One Bad Apple Spoils the Barrel: Understanding the Security Risks Introduced by Third-Party Components in IoT Firmware"
+title: "Pluggable Watermarking of Deepfake Models for Deepfake Detection"
 authors:
-- Binbin Zhao
-- Shouling Ji
-- Jiacheng Xu
-- Yuan Tian
-- Qiuyang Wei
-- Qinying Wang
-- Chenyang Lyu
+- Han Bao
 - Xuhong Zhang
-- Changting Lin
-- Jingzheng Wu
-- Raheem Beyah
+- Qinying Wang
+- Kangming Liang
+- Zonghui Wang
+- Shouling Ji
+- Wenzhi Chen
 
 publication_types: ["1"]
 # publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
-publication: "IEEE Transactions on Dependable and Secure Computing, **CCF-A**"
+publication: "the 33rd International Joint Conference on Artificial Intelligence (IJCAI), **CCF-A**"
 publication_shorts: ""
 
 tags: []
 categories: []
-date: '2022-12-28'
+date: '2024-08-09'
 # lastmod: 2020-10-26T16:54:10-04:00
 # featured: false
 # draft: false
@@ -37,14 +33,14 @@ image:
   preview_only: false
 
 links:
-url_pdf: 'https://arxiv.org/abs/2212.13716'
+url_pdf: 'https://www.ijcai.org/proceedings/2024/37'
 # - name: Custom Link
 #   url: http://example.org
-url_code: ''
-url_dataset: 'https://github.com/BBge/FirmSecDataset'
+url_code: 'https://github.com/GuaiZao/Pluggable-Watermarking'
+url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'slides.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
