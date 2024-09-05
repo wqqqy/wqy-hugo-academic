@@ -70,8 +70,6 @@ user_groups:
 ---
 
 I am a postdoctoral researcher at [HexHive](http://hexhive.epfl.ch/), [EPFL](https://www.epfl.ch/en/), advised by Prof. [Mathias Payer](https://nebelwelt.net/). I earned my Ph.D. with honour at [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, advised by Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html). Prior to that, I earned my bachelor’s degree with honour at [Hunan University](http://www-en.hnu.edu.cn/) in 2018. I am broadly interested in software and system security and IoT security. Recently, my research focuses on developing novel technologies to understand the risks of modern and emerging systems, such as IoT messaging protocols, embedded systems, and trusted execution environments. 
-#My research builds on and expands fuzzing, state modeling, formal analysis, binary analysis, and deep learning. All research prototypes are released as open-source.
-
 
 ### Recent News
 * [26/03/2024] Qinying was invited to serve on Oakland 2024 Poster PC!
