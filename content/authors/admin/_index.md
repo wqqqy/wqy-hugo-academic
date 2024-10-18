@@ -26,7 +26,7 @@ education:
   - course: Visiting Ph.D. Student
     institution: EPFL
     year: 2022 - 2023
-  - course: Ph.D. Candidate in Cyberspace Security
+  - course: Ph.D. in Cyberspace Security
     institution: Zhejiang University 
     year: 2024
   - course: B.E. in Information Security
