@@ -69,14 +69,18 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher at [HexHive](http://hexhive.epfl.ch/), [EPFL](https://www.epfl.ch/en/), advised by Prof. [Mathias Payer](https://nebelwelt.net/). I earned my Ph.D. with honour at [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, advised by Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html). Prior to that, I earned my bachelor’s degree with honour at [Hunan University](http://www-en.hnu.edu.cn/) in 2018. I am broadly interested in software and system security and IoT security. Recently, my research focuses on developing novel technologies to understand the risks of modern and emerging systems, such as IoT messaging protocols, embedded systems, and trusted execution environments. 
+I am a postdoctoral researcher at [HexHive](http://hexhive.epfl.ch/), [EPFL](https://www.epfl.ch/en/), advised by Prof. [Mathias Payer](https://nebelwelt.net/). I earned my Ph.D. with honour at [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, advised by Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html). Prior to that, I earned my bachelor’s degree with honour at [Hunan University](http://www-en.hnu.edu.cn/) in 2018. 
+
+I am broadly interested in software and system security, with a particular focus on IoT security. My recent research centers around developing innovative technologies to understand and mitigate risks in modern and emerging systems. This includes IoT messaging protocols, embedded systems, bootloader, OS kernels, and trusted execution environments. Additionally, I am exploring  vulnerability detection in autonomous driving and robotic systems, aiming to strengthen the security of critical technologies.
 
 ### Recent News
+* [15/10/2024] Our paper was accepted by NDSS 2025!
+* [26/09/2024] Our paper was accepted by USENIX Security 2024!
 * [26/03/2024] Qinying was invited to serve on Oakland 2024 Poster PC!
 * [08/07/2023] Our paper was accepted by NDSS 2024!
 * [07/10/2023] Our paper was accepted by IEEE S&P 2024!
-* [05/09/2023] Our paper was accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)!
-* [03/23/2023] Our paper was accepted by USENIX Security 2023!
+<!-- * [05/09/2023] Our paper was accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)! -->
+<!-- * [03/23/2023] Our paper was accepted by USENIX Security 2023! -->
 <!-- * [03/17/2023] Qinying was invited to serve on Oakland 2023 Poster PC! -->
 <!-- * [10/11/2022] Our paper was accepted by USENIX Security 2023!
 * [04/11/2022] Our paper was accepted by ISSTA 2022!
