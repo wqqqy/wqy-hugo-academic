@@ -74,6 +74,7 @@ I am a postdoctoral researcher at [HexHive](http://hexhive.epfl.ch/), [EPFL](htt
 I am broadly interested in software and system security, with a particular focus on IoT security. My recent research centers around developing innovative technologies to understand and mitigate risks in modern and emerging systems. This includes IoT messaging protocols, embedded systems, bootloader, OS kernels, and trusted execution environments. Additionally, I am exploring  vulnerability detection in autonomous driving and robotic systems, aiming to strengthen the security of critical technologies.
 
 ### Recent News
+* [10/03/2025] Our paper was accepted by IEEE S&P 2025!
 * [15/10/2024] Our paper was accepted by NDSS 2025!
 * [26/09/2024] Our paper was accepted by USENIX Security 2025!
 * [26/03/2024] Qinying was invited to serve on Oakland 2024 Poster PC!
