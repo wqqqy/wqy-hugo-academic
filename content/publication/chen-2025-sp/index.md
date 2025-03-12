@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Unveiling Security Vulnerabilities in Git Large File Storage Protocol,"
+title: "Unveiling Security Vulnerabilities in Git Large File Storage Protocol"
 authors:
 - Yuan Chen
 - Qinying Wang
