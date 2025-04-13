@@ -79,9 +79,9 @@ I am broadly interested in software and system security, with a particular focus
 * [10/03/2025] Our paper was accepted by IEEE S&P 2025!
 * [15/10/2024] Our paper was accepted by NDSS 2025!
 * [26/09/2024] Our paper was accepted by USENIX Security 2025!
-<!-- * [26/03/2024] Qinying was invited to serve on Oakland 2024 Poster PC! -->
 * [08/07/2023] Our paper was accepted by NDSS 2024!
 * [07/10/2023] Our paper was accepted by IEEE S&P 2024!
+<!-- * [26/03/2024] Qinying was invited to serve on Oakland 2024 Poster PC! -->
 <!-- * [05/09/2023] Our paper was accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)! -->
 <!-- * [03/23/2023] Our paper was accepted by USENIX Security 2023! -->
 <!-- * [03/17/2023] Qinying was invited to serve on Oakland 2023 Poster PC! -->
