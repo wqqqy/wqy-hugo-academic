@@ -75,12 +75,14 @@ I am broadly interested in software and system security, with a particular focus
 <!-- Additionally, I am exploring  vulnerability detection in autonomous driving and robotic systems, aiming to strengthen the security of critical technologies. -->
 
 ### Recent News
-* [03/04/2024] Qinying was invited to serve on Oakland 2025 Poster PC!
+* [11/07/2025] Qinying was invited to serve on the PC for USENIX Security 2026!
+* [11/07/2025] Qinying was invited to serve on the PC for IEEE EuroS&P'26!
+* [03/04/2025] Qinying was invited to serve on Oakland 2025 Poster PC!
 * [10/03/2025] Our paper was accepted by IEEE S&P 2025!
 * [15/10/2024] Our paper was accepted by NDSS 2025!
 * [26/09/2024] Our paper was accepted by USENIX Security 2025!
-* [08/07/2023] Our paper was accepted by NDSS 2024!
-* [07/10/2023] Our paper was accepted by IEEE S&P 2024!
+<!-- * [08/07/2023] Our paper was accepted by NDSS 2024!
+* [07/10/2023] Our paper was accepted by IEEE S&P 2024! -->
 <!-- * [26/03/2024] Qinying was invited to serve on Oakland 2024 Poster PC! -->
 <!-- * [05/09/2023] Our paper was accepted by IEEE Transactions on Dependable and Secure Computing (TDSC)! -->
 <!-- * [03/23/2023] Our paper was accepted by USENIX Security 2023! -->
