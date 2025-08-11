@@ -76,7 +76,7 @@ I am broadly interested in software and system security, with a particular focus
 
 ### Recent News
 * [11/07/2025] Qinying was invited to serve on the PC for USENIX Security 2026!
-* [11/07/2025] Qinying was invited to serve on the PC for IEEE EuroS&P'26!
+* [09/07/2025] Qinying was invited to serve on the PC for IEEE EuroS&P'26!
 * [03/04/2025] Qinying was invited to serve on Oakland 2025 Poster PC!
 * [10/03/2025] Our paper was accepted by IEEE S&P 2025!
 * [15/10/2024] Our paper was accepted by NDSS 2025!
