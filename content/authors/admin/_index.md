@@ -75,6 +75,7 @@ I am broadly interested in software and system security, with a particular focus
 <!-- Additionally, I am exploring  vulnerability detection in autonomous driving and robotic systems, aiming to strengthen the security of critical technologies. -->
 
 ### Recent News
+* [09/09/2025] Our paper was accepted by IEEE S&P 2026!
 * [14/08/2025] Our paper was accepted by NDSS 2026!
 * [11/07/2025] Qinying was invited to serve on the PC for USENIX Security' 26!
 * [09/07/2025] Qinying was invited to serve on the PC for IEEE EuroS&P' 26!
