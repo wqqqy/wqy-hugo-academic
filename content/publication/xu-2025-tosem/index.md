@@ -15,18 +15,18 @@ authors:
 - Chao Zhang
 - Shouling Ji
 
-# author_notes:
-# - ""
-# - ""
-# - ""
-# - "Corresponding author"
-# - ""
-# - ""
-# - ""
-# - "Corresponding author"
-# - ""
-# - ""
-# - ""
+author_notes:
+- ""
+- ""
+- ""
+- "Corresponding author"
+- ""
+- ""
+- ""
+- "Corresponding author"
+- ""
+- ""
+- ""
 publication_types: ["1"]
 # publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
 publication: "TOSEM 2025, **CCF-A**"

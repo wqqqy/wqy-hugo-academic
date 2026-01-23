@@ -3,12 +3,20 @@
 
 title: "Unveiling Security Vulnerabilities in Git Large File Storage Protocol"
 authors:
-- "<u>Yuan Chen</u>"
-- \underline{Qinying Wang}
+- "Yuan Chen †"
+- "Qinying Wang †"
 - Yong Yang
 - Yuanchao Chen
 - Yuwei Li
 - Shouling Ji
+
+author_notes:
+- "† Equal contribution"
+- "† Equal contribution"
+- ""
+- ""
+- ""
+- ""
 
 publication_types: ["1"]
 # publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
