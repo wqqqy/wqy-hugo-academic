@@ -6,7 +6,7 @@ authors:
 - Jiacheng Xu
 - He Sun
 - Shihao Jiang
-- Qingying Wang
+- admin
 - Mingming Zhang
 - Xiang Li
 - Kaiwen Shen
