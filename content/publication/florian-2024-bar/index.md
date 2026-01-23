@@ -5,7 +5,7 @@ title: "SURGEON: Performant, Flexible, and Accurate Re-Hosting via Transplantati
 authors:
 - Florian Hofhammer
 - Marcel Busch
-- Qinying Wang
+- **Qinying Wang**
 - Manuel Egele
 - Mathias Payer
 

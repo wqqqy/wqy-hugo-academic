@@ -7,7 +7,7 @@ authors:
 - Shouling Ji
 - Xuhong Zhang
 - Yuan Tian
-- Qinying Wang
+- **Qinying Wang**
 - Yuwen Pu
 - Chenyang Lyu
 - Raheem Beyah

@@ -3,7 +3,7 @@
 
 title: "MPInspector: A Systematic and Automatic Approach for Evaluating the Security of IoT Messaging Protocols"
 authors:
-- Qinying Wang
+- **Qinying Wang**
 - Shouling Ji
 - Yuan Tian
 - Xuhong Zhang
