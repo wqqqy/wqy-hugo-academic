@@ -16,7 +16,7 @@ authors:
 
 publication_types: ["2"]
 # publication: "30th USENIX Security Symposium (Usenix). <span class=\"award-badge\">CCF-A</span>"
-publication: "Journal of Software, **CCF-A in Chinese**"
+publication: "Journal of Software, **<span class=\"award-badge\">CCF-A</span> in Chinese**"
 publication_shorts: ""
 
 tags: []
