@@ -1,8 +1,13 @@
-.award-trophy {
-  color: #d12b2b;
-  margin-right: 0.1em;
-  vertical-align: -0.05em;
-}
-.award-text {
-  color: #d12b2b;
+.award-badge {
+  background: #fff2f2;
+  border: 1px solid #d12b2b;
+  border-radius: 0.4em;
+  color: #a31717;
+  display: inline-block;
+  font-size: 0.85em;
+  font-weight: 600;
+  line-height: 1;
+  padding: 0.1em 0.4em;
+  vertical-align: 0.05em;
+  white-space: nowrap;
 }

@@ -10,7 +10,7 @@ authors:
 - Mathias Payer
 
 publication_types: ["1"]
-publication: "Workshop on Binary Analysis Research (BAR'24), <i class=\"fas fa-trophy award-trophy\" aria-hidden=\"true\"></i><span class=\"award-text\">**Distinguished Paper Award**</span>"
+publication: "Workshop on Binary Analysis Research (BAR'24), <span class=\"award-badge\">Distinguished Paper Award</span>"
 # publication: "Under major revision"
 publication_shorts: ""
 
