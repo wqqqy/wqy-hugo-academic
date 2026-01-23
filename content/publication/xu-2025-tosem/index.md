@@ -28,8 +28,8 @@ author_notes:
 - ""
 - ""
 publication_types: ["1"]
-# publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
-publication: "TOSEM 2025, **CCF-A**"
+# publication: "30th USENIX Security Symposium (Usenix). <span class="award-badge">CCF-A</span>"
+publication: "TOSEM 2025. <span class="award-badge">CCF-A</span>"
 publication_shorts: ""
 
 tags: []

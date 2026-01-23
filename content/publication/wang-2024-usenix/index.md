@@ -11,7 +11,7 @@ authors:
 - Thorsten Holz
 
 publication_types: ["1"]
-publication: "34th USENIX Security Symposium (USENIX Security), **CCF-A**"
+publication: "34th USENIX Security Symposium (USENIX Security). <span class="award-badge">CCF-A</span>"
 publication_shorts: ""
 
 tags: []
@@ -31,7 +31,7 @@ image:
   preview_only: false
 
 links:
-url_pdf: ''
+url_pdf: 'https://www.usenix.org/conference/usenixsecurity25/presentation/wang-jianqiang'
 # - name: Custom Link
 #   url: http://example.org
 url_code: ''

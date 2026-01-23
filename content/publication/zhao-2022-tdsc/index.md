@@ -16,8 +16,8 @@ authors:
 - Raheem Beyah
 
 publication_types: ["1"]
-# publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
-publication: "IEEE Transactions on Dependable and Secure Computing, **CCF-A**"
+# publication: "30th USENIX Security Symposium (Usenix). <span class="award-badge">CCF-A</span>"
+publication: "IEEE Transactions on Dependable and Secure Computing. <span class="award-badge">CCF-A</span>"
 publication_shorts: ""
 
 tags: []

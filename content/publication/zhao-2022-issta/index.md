@@ -16,8 +16,8 @@ authors:
 - Raheem Beyah
 
 publication_types: ["1"]
-# publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
-publication: "ISSTA 2022, **CCF-A**"
+# publication: "30th USENIX Security Symposium (Usenix). <span class="award-badge">CCF-A</span>"
+publication: "ISSTA 2022. <span class="award-badge">CCF-A</span>"
 publication_shorts: ""
 
 tags: []

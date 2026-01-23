@@ -19,8 +19,8 @@ author_notes:
 - ""
 
 publication_types: ["1"]
-# publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
-publication: "IEEE S&P 2025, **CCF-A**, <span class=\"award-badge\">Distinguished Paper Award</span>"
+# publication: "30th USENIX Security Symposium (Usenix). <span class="award-badge">CCF-A</span>"
+publication: "IEEE S&P 2025. <span class=\"award-badge\">CCF-A</span> <span class=\"award-badge\">Distinguished Paper Award</span>"
 publication_shorts: ""
 
 tags: []

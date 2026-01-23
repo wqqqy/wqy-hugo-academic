@@ -12,8 +12,8 @@ authors:
 - Shouling Ji
 
 publication_types: ["1"]
-# publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
-publication: "NDSS 2026, **CCF-A**"
+# publication: "30th USENIX Security Symposium (Usenix). <span class="award-badge">CCF-A</span>"
+publication: "NDSS 2026. <span class="award-badge">CCF-A</span>"
 publication_shorts: ""
 
 tags: []

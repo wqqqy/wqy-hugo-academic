@@ -12,7 +12,7 @@ authors:
 - Thorsten Holz
 
 publication_types: ["1"]
-publication: "NDSS 2025, **CCF-A**"
+publication: "NDSS 2025. <span class="award-badge">CCF-A</span>"
 publication_shorts: ""
 
 tags: []

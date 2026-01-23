@@ -15,7 +15,7 @@ authors:
 - Yanjun Wu
 
 publication_types: ["2"]
-# publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
+# publication: "30th USENIX Security Symposium (Usenix). <span class="award-badge">CCF-A</span>"
 publication: "Journal of Software, **CCF-A in Chinese**"
 publication_shorts: ""
 
