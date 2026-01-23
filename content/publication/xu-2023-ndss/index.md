@@ -13,8 +13,8 @@ authors:
 - Jiming Chen
 
 publication_types: ["1"]
-# publication: "30th USENIX Security Symposium (Usenix). <span class="award-badge">CCF-A</span>"
-publication: "NDSS 2024. <span class="award-badge">CCF-A</span>"
+# publication: "30th USENIX Security Symposium (Usenix). <span class=\"award-badge\">CCF-A</span>"
+publication: "NDSS 2024. <span class=\"award-badge\">CCF-A</span>"
 publication_shorts: ""
 
 tags: []

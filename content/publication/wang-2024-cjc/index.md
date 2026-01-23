@@ -12,7 +12,7 @@ authors:
 - Shouling Ji
 
 publication_types: ["2"]
-# publication: "30th USENIX Security Symposium (Usenix). <span class="award-badge">CCF-A</span>"
+# publication: "30th USENIX Security Symposium (Usenix). <span class=\"award-badge\">CCF-A</span>"
 publication: "Chinese Journal of Computers, **CCF-A in Chinese**"
 publication_shorts: ""
 

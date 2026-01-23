@@ -12,8 +12,8 @@ authors:
 - Wenzhi Chen
 
 publication_types: ["1"]
-# publication: "30th USENIX Security Symposium (Usenix). <span class="award-badge">CCF-A</span>"
-publication: "the 33rd International Joint Conference on Artificial Intelligence (IJCAI). <span class="award-badge">CCF-A</span>"
+# publication: "30th USENIX Security Symposium (Usenix). <span class=\"award-badge\">CCF-A</span>"
+publication: "the 33rd International Joint Conference on Artificial Intelligence (IJCAI). <span class=\"award-badge\">CCF-A</span>"
 publication_shorts: ""
 
 tags: []

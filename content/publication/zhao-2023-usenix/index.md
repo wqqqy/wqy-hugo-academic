@@ -13,8 +13,8 @@ authors:
 - Raheem Beyah
 
 publication_types: ["1"]
-# publication: "30th USENIX Security Symposium (Usenix). <span class="award-badge">CCF-A</span>"
-publication: "32nd USENIX Security Symposium (USENIX Security). <span class="award-badge">CCF-A</span>"
+# publication: "30th USENIX Security Symposium (Usenix). <span class=\"award-badge\">CCF-A</span>"
+publication: "32nd USENIX Security Symposium (USENIX Security). <span class=\"award-badge\">CCF-A</span>"
 publication_shorts: ""
 
 tags: []
