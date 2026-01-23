@@ -20,7 +20,7 @@ author_notes:
 
 publication_types: ["1"]
 # publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
-publication: "IEEE S&P 2025, **CCF-A**"
+publication: "IEEE S&P 2025, **CCF-A**, <i class=\"fas fa-trophy\" aria-hidden=\"true\"></i> **Distinguished Paper Award**"
 publication_shorts: ""
 
 tags: []
