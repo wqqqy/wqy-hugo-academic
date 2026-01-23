@@ -7,7 +7,7 @@ authors:
 - Jiacheng Xu
 - Shouling Ji
 - Xuhong Zhang
-- **Qinying Wang**
+- Qinying Wang
 - Binbin Zhao
 - Gaoning Pan
 - Wei Cao

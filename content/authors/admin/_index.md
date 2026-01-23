@@ -1,6 +1,6 @@
 ---
 # Display name
-title: **Qinying Wang**
+title: Qinying Wang
 
 # Is this the primary user of the site?
 superuser: true
@@ -60,7 +60,7 @@ social:
 email: "wqybbh@gmail.com, qinying.wang@epfl.ch"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,7 +69,9 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher at [HexHive](http://hexhive.epfl.ch/), [EPFL](https://www.epfl.ch/en/), advised by Prof. [Mathias Payer](https://nebelwelt.net/). I earned my Ph.D. with honour at [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, advised by Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html). Prior to that, I earned my bachelor’s degree with honour at [Hunan University](http://www-en.hnu.edu.cn/) in 2018. 
+I am a postdoctoral researcher at [HexHive](http://hexhive.epfl.ch/), [EPFL](https://www.epfl.ch/en/), advised by Prof. [Mathias Payer](https://nebelwelt.net/). I earned my Ph.D. with honour at [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, advised by Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html). During my Ph.D., I was fortunate to collaborate with Prof. Yuan Tian (UCLA). 
+Prior to that, I earned my bachelor’s degree with honour at [Hunan University](http://www-en.hnu.edu.cn/) in 2018.
+
 
 I am broadly interested in software and system security, with a particular focus on IoT security. My recent research centers around developing innovative technologies to understand and mitigate risks in modern and emerging systems. This includes IoT messaging protocols, embedded systems, bootloader, OS kernels, and trusted execution environments. 
 <!-- Additionally, I am exploring  vulnerability detection in autonomous driving and robotic systems, aiming to strengthen the security of critical technologies. -->
@@ -94,5 +96,4 @@ I am broadly interested in software and system security, with a particular focus
 <!-- * [10/11/2022] Our paper was accepted by USENIX Security 2023!
 * [04/11/2022] Our paper was accepted by ISSTA 2022!
 * [05/25/2021] Our paper was accepted by USENIX Security 2021! -->
-
 

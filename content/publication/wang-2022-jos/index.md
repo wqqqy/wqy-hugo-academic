@@ -4,7 +4,7 @@
 title: "State-of-the-Art Survey of Open-source Software Supply Chain Security"
 authors:
 - Shouling Ji
-- **Qinying Wang**
+- Qinying Wang
 - Anying Chen
 - Binbin Zhao
 - Tong Ye

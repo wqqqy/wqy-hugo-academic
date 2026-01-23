@@ -4,7 +4,7 @@
 title: "Unveiling Security Vulnerabilities in Git Large File Storage Protocol"
 authors:
 - "Yuan Chen †"
-- "**Qinying Wang** †"
+- "Qinying Wang †"
 - Yong Yang
 - Yuanchao Chen
 - Yuwei Li
