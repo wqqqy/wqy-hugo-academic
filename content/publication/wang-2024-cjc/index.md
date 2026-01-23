@@ -3,7 +3,7 @@
 
 title: "A Review of Smart Fuzzing: Problem Exploration and Method Classification"
 authors:
-- Qinying Wang
+- admin
 - Jiacheng Xu
 - Yuwei Li
 - Zulie Pan

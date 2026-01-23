@@ -5,7 +5,7 @@ title: "A Comprehensive Memory Safety Analysis of Bootloaders"
 authors:
 - Jianqiang Wang
 - Meng Wang
-- Qinying Wang
+- admin
 - Nils Langius
 - Li Shi
 - Ali Abbasi

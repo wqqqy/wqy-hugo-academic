@@ -8,7 +8,7 @@ authors:
 - Shouling Ji
 - Yuan Tian
 - Binbin Zhao
-- Qinying Wang
+- admin
 - Peng Cheng
 - Jiming Chen
 

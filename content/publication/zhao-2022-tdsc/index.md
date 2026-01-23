@@ -8,7 +8,7 @@ authors:
 - Jiacheng Xu
 - Yuan Tian
 - Qiuyang Wei
-- Qinying Wang
+- admin
 - Chenyang Lyu
 - Xuhong Zhang
 - Changting Lin

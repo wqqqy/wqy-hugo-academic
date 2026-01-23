@@ -5,7 +5,7 @@ title: "Pluggable Watermarking of Deepfake Models for Deepfake Detection"
 authors:
 - Han Bao
 - Xuhong Zhang
-- Qinying Wang
+- admin
 - Kangming Liang
 - Zonghui Wang
 - Shouling Ji

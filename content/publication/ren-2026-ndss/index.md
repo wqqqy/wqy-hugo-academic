@@ -6,7 +6,7 @@ authors:
 - Zezhong Ren
 - Han Zheng
 - Zhiyao Feng
-- Qinying Wang
+- admin
 - Marcel Busch
 - Yuqing Zhang
 - Chao Zhang

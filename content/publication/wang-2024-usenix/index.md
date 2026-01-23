@@ -4,7 +4,7 @@
 title: "AidFuzzer: Adaptive Interrupt-Driven Firmware Fuzzing via Run-Time State Recognition"
 authors:
 - Jianqiang Wang
-- Qinying Wang
+- admin
 - Tobias Scharnowski
 - Li Shi
 - Simon Woerner

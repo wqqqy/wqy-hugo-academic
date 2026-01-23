@@ -23,12 +23,12 @@ interests:
 
 education:
   courses:
-  - course: Visiting Ph.D. Student
-    institution: EPFL
-    year: 2022 - 2023
   - course: Ph.D. in Cyberspace Security
     institution: Zhejiang University 
     year: 2024
+  - course: Visiting Ph.D. Student
+    institution: EPFL
+    year: 2022 - 2023
   - course: B.E. in Information Security
     institution: Hunan University
     year: 2018
@@ -69,7 +69,7 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher at [HexHive](http://hexhive.epfl.ch/), [EPFL](https://www.epfl.ch/en/), advised by Prof. [Mathias Payer](https://nebelwelt.net/). I earned my Ph.D. with honour at [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, advised by Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html). During my Ph.D., I was fortunate to collaborate with Prof. Yuan Tian (UCLA). 
+I am a postdoctoral researcher at [HexHive](http://hexhive.epfl.ch/), [EPFL](https://www.epfl.ch/en/), advised by Prof. [Mathias Payer](https://nebelwelt.net/). I earned my Ph.D. with honour at [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, advised by Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html). During my Ph.D., I was fortunate to collaborate with Prof. [Yuan Tian](https://www.ytian.info/) (UCLA). 
 Prior to that, I earned my bachelor’s degree with honour at [Hunan University](http://www-en.hnu.edu.cn/) in 2018.
 
 

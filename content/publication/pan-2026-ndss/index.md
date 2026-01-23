@@ -5,7 +5,7 @@ title: "Breaking Isolation: A New Perspective on Hypervisor Exploitation via Cro
 authors:
 - Gaoning Pan
 - Yiming Tao
-- Qinying Wang
+- admin
 - Chunming Wu
 - Mingde Hu
 - Yizhi Ren
