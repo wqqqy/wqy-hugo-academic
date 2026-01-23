@@ -1,23 +1,25 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Unveiling Security Vulnerabilities in Git Large File Storage Protocol"
+title: "Sysyphuzz: the Pressure of More Coverage"
 authors:
-- "<u>Yuan Chen</u>"
-- \underline{Qinying Wang}
-- Yong Yang
-- Yuanchao Chen
-- Yuwei Li
-- Shouling Ji
+- Zezhong Ren
+- Han Zheng
+- Zhiyao Feng
+- Qinying Wang
+- Marcel Busch
+- Yuqing Zhang
+- Chao Zhang
+- Mathias Payer
 
 publication_types: ["1"]
 # publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
-publication: "IEEE S&P 2025, **CCF-A**"
+publication: "NDSS 2026, **CCF-A**"
 publication_shorts: ""
 
 tags: []
 categories: []
-date: '2025-03-10'
+date: '2025-08-04'
 # lastmod: 2020-10-26T16:54:10-04:00
 # featured: false
 # draft: false
@@ -32,10 +34,10 @@ image:
   preview_only: false
 
 links:
-url_pdf: 'https://nesa.zju.edu.cn/download/sp2025c2-final59.pdf'
+url_pdf: 'https://hexhive.epfl.ch/publications/files/26NDSS.pdf'
 # - name: Custom Link
 #   url: http://example.org
-url_code: 'https://github.com/NESA-Lab/LFSonar'
+url_code: 'https://github.com/HexHive/Sysyphuzz'
 url_dataset: ''
 url_poster: ''
 url_project: ''

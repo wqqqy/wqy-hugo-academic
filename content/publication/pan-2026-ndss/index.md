@@ -1,23 +1,24 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Unveiling Security Vulnerabilities in Git Large File Storage Protocol"
+title: "Breaking Isolation: A New Perspective on Hypervisor Exploitation via Cross-Domain Attacks"
 authors:
-- "<u>Yuan Chen</u>"
-- \underline{Qinying Wang}
-- Yong Yang
-- Yuanchao Chen
-- Yuwei Li
+- Gaoning Pan
+- Yiming Tao
+- Qinying Wang
+- Chunming Wu
+- Mingde Hu
+- Yizhi Ren
 - Shouling Ji
 
 publication_types: ["1"]
 # publication: "30th USENIX Security Symposium (Usenix), **CCF-A**"
-publication: "IEEE S&P 2025, **CCF-A**"
+publication: "NDSS 2026, **CCF-A**"
 publication_shorts: ""
 
 tags: []
 categories: []
-date: '2025-03-10'
+date: '2025-12-02'
 # lastmod: 2020-10-26T16:54:10-04:00
 # featured: false
 # draft: false
@@ -32,10 +33,10 @@ image:
   preview_only: false
 
 links:
-url_pdf: 'https://nesa.zju.edu.cn/download/sp2025c2-final59.pdf'
+url_pdf: 'https://arxiv.org/abs/2512.04260'
 # - name: Custom Link
 #   url: http://example.org
-url_code: 'https://github.com/NESA-Lab/LFSonar'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
