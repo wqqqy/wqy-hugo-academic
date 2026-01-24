@@ -34,14 +34,14 @@ image:
   preview_only: false
 
 links:
-url_pdf: ''
+url_pdf: 'https://www.usenix.org/system/files/usenixsecurity23-zhao-binbin.pdf'
 # - name: Custom Link
 #   url: http://example.org
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://www.usenix.org/system/files/sec23_slides_zhao-binbin.pdf'
 url_source: ''
 url_video: ''
 
