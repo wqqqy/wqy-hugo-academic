@@ -34,7 +34,7 @@ links:
 url_pdf: 'https://www.usenix.org/conference/usenixsecurity25/presentation/wang-jianqiang'
 # - name: Custom Link
 #   url: http://example.org
-url_code: ''
+url_code: 'https://github.com/wjqsec/aidfuzzer'
 url_dataset: ''
 url_poster: ''
 url_project: ''
