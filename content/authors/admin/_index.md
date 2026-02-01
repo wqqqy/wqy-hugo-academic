@@ -69,7 +69,7 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher at [HexHive](http://hexhive.epfl.ch/), [EPFL](https://www.epfl.ch/en/), advised by Prof. [Mathias Payer](https://nebelwelt.net/). I earned my Ph.D. with honour at [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, advised by Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html). During my Ph.D., I was fortunate to collaborate with Prof. [Yuan Tian](https://www.ytian.info/) (UCLA). 
+I am a postdoctoral researcher at [HexHive](http://hexhive.epfl.ch/), [EPFL](https://www.epfl.ch/en/), advised by Prof. [Mathias Payer](https://nebelwelt.net/). I earned my Ph.D. with honour at [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, advised by Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html). During my Ph.D., I was fortunate to collaborate with Prof. [Yuan Tian](https://www.ytian.info/) (UCLA), and benefited from her regular guidance. 
 Prior to that, I earned my bachelor’s degree with honour at [Hunan University](http://www-en.hnu.edu.cn/) in 2018.
 
 
