@@ -13,7 +13,7 @@ authors:
 
 publication_types: ["1"]
 # publication: "30th USENIX Security Symposium (Usenix). <span class=\"award-badge\">CCF-A</span>"
-publication: "NDSS 2026. <span class=\"award-badge\">Top-tier Security Venue</span>"
+publication: "NDSS 2026. <span class=\"award-badge\">Top-tier Security Conference</span>"
 publication_shorts: ""
 
 tags: []

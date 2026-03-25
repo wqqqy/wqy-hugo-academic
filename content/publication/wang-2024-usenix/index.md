@@ -11,7 +11,7 @@ authors:
 - Thorsten Holz
 
 publication_types: ["1"]
-publication: "34th USENIX Security Symposium (USENIX Security). <span class=\"award-badge\">Top-tier Security Venue</span>"
+publication: "34th USENIX Security Symposium (USENIX Security). <span class=\"award-badge\">Top-tier Security Conference</span>"
 publication_shorts: ""
 
 tags: []

@@ -29,7 +29,7 @@ author_notes:
 - ""
 publication_types: ["1"]
 # publication: "30th USENIX Security Symposium (Usenix). <span class=\"award-badge\">CCF-A</span>"
-publication: "TOSEM 2025. <span class=\"award-badge\">CCF-A</span>"
+publication: "TOSEM 2025. <span class=\"award-badge\">Top-tier Software Engineering Journal</span>"
 publication_shorts: ""
 
 tags: []

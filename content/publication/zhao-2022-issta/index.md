@@ -17,7 +17,7 @@ authors:
 
 publication_types: ["1"]
 # publication: "30th USENIX Security Symposium (Usenix). <span class=\"award-badge\">CCF-A</span>"
-publication: "ISSTA 2022. <span class=\"award-badge\">CCF-A</span>"
+publication: "ISSTA 2022. <span class=\"award-badge\">Top-tier Software Engineering Conference</span>"
 publication_shorts: ""
 
 tags: []

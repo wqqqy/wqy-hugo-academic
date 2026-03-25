@@ -12,7 +12,7 @@ authors:
 - Thorsten Holz
 
 publication_types: ["1"]
-publication: "NDSS 2025. <span class=\"award-badge\">Top-tier Security Venue</span>"
+publication: "NDSS 2025. <span class=\"award-badge\">Top-tier Security Conference</span>"
 publication_shorts: ""
 
 tags: []

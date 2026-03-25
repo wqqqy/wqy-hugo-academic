@@ -17,7 +17,7 @@ authors:
 
 publication_types: ["1"]
 # publication: "30th USENIX Security Symposium (Usenix). <span class=\"award-badge\">CCF-A</span>"
-publication: "30th USENIX Security Symposium (USENIX Security 2021). <span class=\"award-badge\">Top-tier Security Venue</span>"
+publication: "30th USENIX Security Symposium (USENIX Security 2021). <span class=\"award-badge\">Top-tier Security Conference</span>"
 publication_shorts: ""
 
 tags: []
