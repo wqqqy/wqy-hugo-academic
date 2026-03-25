@@ -15,7 +15,7 @@ authors:
 - Raheem Beyah
 
 publication_types: ["1"]
-publication: "32nd USENIX Security Symposium (USENIX Security). <span class=\"award-badge\">CCF-A</span>"
+publication: "32nd USENIX Security Symposium (USENIX Security). <span class=\"award-badge\">Top-tier Security Venue</span>"
 # publication: "Under major revision"
 publication_shorts: ""
 
