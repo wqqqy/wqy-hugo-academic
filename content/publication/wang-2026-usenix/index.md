@@ -1,31 +1,28 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "SmuFuzz: Enable Deep System Management Mode Fuzzing in Fully Featured UEFI Runtime Environment"
+title: "When HTTP 402 Meets the Blockchain: Risks on Emerging x402 Payments"
 authors:
-- Jianqiang Wang
-- Yi Xiang
-- Meng Wang
 - admin
-- Ali Abbasi
-- Thorsten Holz
+- Yong Yang
+- Yuan Chen
+- Shouling Ji
+- Mathias Payer
 
-author_notes:
-- ""
-- ""
-- ""
-- ""
-- ""
-- ""
-
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
+# - ""
+# - ""
+# - ""
 publication_types: ["1"]
-# publication: "30th USENIX Security Symposium (Usenix). <span class=\"award-badge\">CCF-A</span>"
-publication: "IEEE S&P 2026. <span class=\"award-badge\">Top-tier Security Conference</span>"
+publication: "35nd USENIX Security Symposium (USENIX Security). <span class=\"award-badge\">Top-tier Security Conference</span>"
+# publication: "Under major revision"
 publication_shorts: ""
 
 tags: []
 categories: []
-date: '2025-09-09'
+date: '2026-06-09'
 # lastmod: 2020-10-26T16:54:10-04:00
 # featured: false
 # draft: false
@@ -40,10 +37,10 @@ image:
   preview_only: false
 
 links:
-url_pdf: 'https://www.computer.org/csdl/proceedings-article/sp/2026/606500a187/2bojvesfTCE'
+url_pdf: ''
 # - name: Custom Link
 #   url: http://example.org
-url_code: 'https://github.com/wjqsec/smufuzz'
+url_code: 'https://github.com/HexHive/x402scope'
 url_dataset: ''
 url_poster: ''
 url_project: ''
