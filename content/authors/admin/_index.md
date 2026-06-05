@@ -78,7 +78,7 @@ I am broadly interested in software and system security, with a particular focus
 
 ### Recent News
 * [04/06/2026] Our paper was accepted by USENIX Security' 26!
-* [25/02/2026] Qinying was invited to serve on the PC for ASE Industry Showcase' 26!
+* [25/02/2026] Qinying joined the PC of ASE 2026 Industry Showcase!
 * [02/12/2025] Our paper was accepted by TOSEM!
 * [02/12/2025] Our paper was accepted by NDSS 2026!
 * [09/09/2025] Our paper was accepted by IEEE S&P 2026!
