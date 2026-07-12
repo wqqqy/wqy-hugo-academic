@@ -77,7 +77,7 @@ Prior to that, I earned my bachelor’s degree with honour at [Hunan University]
 I am broadly interested in software and system security, with a particular focus on IoT security. My recent research centers around developing innovative technologies to understand and mitigate risks in modern and emerging systems. This includes AI agent, IoT messaging protocols, embedded systems, bootloader, OS kernels, and trusted execution environments. 
 <!-- Additionally, I am exploring  vulnerability detection in autonomous driving and robotic systems, aiming to strengthen the security of critical technologies. -->
 
-<span class="job-market-notice">I am on the <strong>2026–2027 academic job market</strong> and would be happy to discuss my research further.</span>
+<span class="job-market-notice">I am on the <strong>2026–2027 job market</strong> and would be happy to discuss my research further.</span>
 
 ### Recent News
 * [04/06/2026] Our paper was accepted by USENIX Security' 26!
