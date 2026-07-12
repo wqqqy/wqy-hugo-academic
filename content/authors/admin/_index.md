@@ -69,12 +69,15 @@ user_groups:
 - Visitors
 ---
 
+
 I am a postdoctoral researcher at [HexHive](http://hexhive.epfl.ch/), [EPFL](https://www.epfl.ch/en/), advised by Prof. [Mathias Payer](https://nebelwelt.net/). I earned my Ph.D. with honour at [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, advised by Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html). During my Ph.D., I was fortunate to collaborate with Prof. [Yuan Tian](https://www.ytian.info/) (UCLA), and benefited from her regular guidance. 
 Prior to that, I earned my bachelor’s degree with honour at [Hunan University](http://www-en.hnu.edu.cn/) in 2018.
 
 
-I am broadly interested in software and system security, with a particular focus on IoT security. My recent research centers around developing innovative technologies to understand and mitigate risks in modern and emerging systems. This includes IoT messaging protocols, embedded systems, bootloader, OS kernels, and trusted execution environments. 
+I am broadly interested in software and system security, with a particular focus on IoT security. My recent research centers around developing innovative technologies to understand and mitigate risks in modern and emerging systems. This includes AI agent, IoT messaging protocols, embedded systems, bootloader, OS kernels, and trusted execution environments. 
 <!-- Additionally, I am exploring  vulnerability detection in autonomous driving and robotic systems, aiming to strengthen the security of critical technologies. -->
+
+<span class="job-market-notice">I am on the <strong>2026–2027 academic job market</strong>. Please feel free to contact me if you would like to learn more about my research.</span>
 
 ### Recent News
 * [04/06/2026] Our paper was accepted by USENIX Security' 26!
@@ -98,4 +101,3 @@ I am broadly interested in software and system security, with a particular focus
 <!-- * [10/11/2022] Our paper was accepted by USENIX Security 2023!
 * [04/11/2022] Our paper was accepted by ISSTA 2022!
 * [05/25/2021] Our paper was accepted by USENIX Security 2021! -->
-

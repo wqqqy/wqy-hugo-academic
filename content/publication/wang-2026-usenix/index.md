@@ -9,12 +9,12 @@ authors:
 - Shouling Ji
 - Mathias Payer
 
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
-# - ""
-# - ""
-# - ""
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- ""
+- ""
+- ""
 publication_types: ["1"]
 publication: "35nd USENIX Security Symposium (USENIX Security). <span class=\"award-badge\">Top-tier Security Conference</span>"
 # publication: "Under major revision"
