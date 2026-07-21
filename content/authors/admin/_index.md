@@ -129,7 +129,7 @@ with applications in embedded and IoT systems, developer infrastructure, and AI-
 This includes AI agent, IoT messaging protocols, embedded systems, OS kernels, and trusted execution environments.  -->
 <!-- Additionally, I am exploring  vulnerability detection in autonomous driving and robotic systems, aiming to strengthen the security of critical technologies. -->
 
-<span class="job-market-notice">I'm on the <strong>2026–2027 job market</strong> and happy to discuss more about my research!</span>
+<span class="job-market-notice">I am currently on the <strong>2026–2027 job market</strong> and seeking faculty positions in computer security.</span>
 
 ### Recent News
 * [04/06/2026] Our paper was accepted by USENIX Security' 26!
