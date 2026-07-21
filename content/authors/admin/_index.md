@@ -123,7 +123,7 @@ During my Ph.D., I was fortunate to collaborate with Prof. [Yuan Tian](https://w
  My research spans software and systems security, with a focus on IoT and emerging connected systems. 
  I develop techniques to identify and mitigate risks arising from complex interactions across system components and trust boundaries.
 
-My work combines program analysis, fuzzing, systems design and implementation, and large-scale empirical measurement, 
+My work brings together systems research, program analysis, fuzzing, and large-scale empirical measurement, 
 with applications in embedded and IoT systems, software systems, and AI-enabled services.
 <!-- 
 This includes AI agent, IoT messaging protocols, embedded systems, OS kernels, and trusted execution environments.  -->
