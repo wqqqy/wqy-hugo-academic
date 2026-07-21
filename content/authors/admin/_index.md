@@ -34,7 +34,7 @@ education:
     year: 2018
 
 research_areas:
-- title: Embedded and IoT systems
+- title: Embedded and IoT Systems
   publications:
   - name: IEEE S&P '26
     anchor: pub-wang-2026-sp
@@ -54,7 +54,7 @@ research_areas:
     anchor: pub-zhao-2022-issta
   - name: USENIX Security '21
     anchor: pub-wang-2021-usenix
-- title: Developer infrastructure
+- title: Software Systems
   publications:
   - name: TDSC '26
     anchor: pub-fan-2026-tdsc
@@ -70,7 +70,7 @@ research_areas:
     anchor: pub-xu-2023-ndss
   - name: USENIX Security '23
     anchor: pub-lyu-2023-usenix
-- title: AI-enabled services
+- title: AI-Enabled Services
   publications:
   - name: USENIX Security '26
     anchor: pub-wang-2026-usenix
@@ -124,7 +124,7 @@ During my Ph.D., I was fortunate to collaborate with Prof. [Yuan Tian](https://w
  I develop techniques to identify and mitigate risks arising from complex interactions across system components and trust boundaries.
 
 My work combines program analysis, fuzzing, systems design and implementation, and large-scale empirical measurement, 
-with applications in embedded and IoT systems, developer infrastructure, and AI-enabled services.
+with applications in embedded and IoT systems, software systems, and AI-enabled services.
 <!-- 
 This includes AI agent, IoT messaging protocols, embedded systems, OS kernels, and trusted execution environments.  -->
 <!-- Additionally, I am exploring  vulnerability detection in autonomous driving and robotic systems, aiming to strengthen the security of critical technologies. -->
