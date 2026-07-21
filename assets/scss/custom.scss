@@ -16,3 +16,14 @@
   color: #c62828;
   font-weight: 600;
 }
+
+/* Match the About Me prose and news list to the Research Areas list size. */
+#about > .container > .row > .col-lg-8 > p,
+#about > .container > .row > .col-lg-8 > ul {
+  font-size: 0.9rem;
+}
+
+/* Keep publication citations consistent with the About Me body text. */
+#publications .pub-list-item {
+  font-size: 0.9rem;
+}

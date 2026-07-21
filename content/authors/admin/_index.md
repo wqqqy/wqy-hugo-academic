@@ -116,20 +116,20 @@ user_groups:
 
 I am a postdoctoral researcher at [HexHive](http://hexhive.epfl.ch/), [EPFL](https://www.epfl.ch/en/), advised by Prof. [Mathias Payer](https://nebelwelt.net/). 
 I earned my Ph.D. with honour at [Zhejiang University](https://www.zju.edu.cn/english/) in 2024, advised by Prof. [Shouling Ji](http://nesa.zju.edu.cn/webpage/crew/jsl.html). 
-During my Ph.D., I was fortunate to collaborate with Prof. [Yuan Tian](https://www.ytian.info/) (UCLA), and benefited greatly from her guidance. 
+During my Ph.D., I was fortunate to collaborate with Prof. [Yuan Tian](https://www.ytian.info/) (UCLA), and benefited greatly from her regular guidance. 
 <!-- Prior to that, I earned my bachelor’s degree with honour at [Hunan University](http://www-en.hnu.edu.cn/) in 2018. -->
 
 
  My research spans software and systems security, with a focus on IoT and emerging connected systems. 
  I develop techniques to identify and mitigate risks arising from complex interactions across system components and trust boundaries.
 
-My work combines program analysis, fuzzing, systems research, and large-scale empirical measurement, 
+My work combines program analysis, fuzzing, systems design and implementation, and large-scale empirical measurement, 
 with applications in embedded and IoT systems, developer infrastructure, and AI-enabled services.
 <!-- 
 This includes AI agent, IoT messaging protocols, embedded systems, OS kernels, and trusted execution environments.  -->
 <!-- Additionally, I am exploring  vulnerability detection in autonomous driving and robotic systems, aiming to strengthen the security of critical technologies. -->
 
-<span class="job-market-notice">I am currently on the <strong>2026–2027 job market</strong> and seeking faculty positions in computer security.</span>
+<span class="job-market-notice">I am currently on the <strong>2026–2027 job market</strong> and seeking faculty positions in computer security and related areas.</span>
 
 ### Recent News
 * [04/06/2026] Our paper was accepted by USENIX Security' 26!
