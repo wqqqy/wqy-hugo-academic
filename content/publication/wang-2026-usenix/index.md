@@ -16,7 +16,7 @@ author_notes:
 - ""
 - ""
 publication_types: ["1"]
-publication: "35nd USENIX Security Symposium (USENIX Security). <span class=\"award-badge\">Top-tier Security Conference</span>"
+publication: "35th USENIX Security Symposium (USENIX Security). <span class=\"award-badge\">Top-tier Security Conference</span>"
 # publication: "Under major revision"
 publication_shorts: ""
 

@@ -1,0 +1,45 @@
+{{- define "main" -}}
+
+{{/*
+  Hugo v0.164 exposes a virtual .File for taxonomy pages. The 2020 Wowchemy
+  template treated any page with .File as an author profile, which makes it
+  look for a profile named "authors" (or each unprofiled publication author).
+  A real profile has the Wowchemy `superuser` field; taxonomy pages do not.
+*/}}
+{{ $is_profile := isset .Params "superuser" }}
+
+{{ if not $is_profile }}
+<div class="universal-wrapper pt-3">
+  <h1>{{ .Title }}</h1>
+</div>
+{{ end }}
+
+<section id="profile-page" class="pt-5">
+  <div class="container">
+    {{ if $is_profile }}
+      {{ $widget := "widgets/about.html" }}
+      {{/* Hugo v0.164 no longer includes `_index.md` in a branch bundle's
+          `.Path`; use the content bundle directory for the profile ID. */}}
+      {{ $username := path.Base (strings.TrimSuffix "/" .File.Dir) }}
+      {{ $params := dict "root" $ "page" . "author" $username }}
+      {{ partial $widget $params }}
+    {{ end }}
+
+    {{ $query := where .Pages ".IsNode" false }}
+    {{ $count := len $query }}
+    {{ if $count }}
+    <div class="article-widget content-widget-hr">
+      <h3>{{ i18n "user_profile_latest" | default "Latest" }}</h3>
+      <ul>
+        {{ range $query }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+  </div>
+</section>
+
+{{- end -}}
